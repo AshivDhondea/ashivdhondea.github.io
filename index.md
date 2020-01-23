@@ -5,7 +5,7 @@ I have taught myself a fair bit of programming, astrodynamics, target tracking a
 
 ## Education
 
-| December 2018  | MSc(Eng) in Electrical Engineering, **University of Cape Town**.  |
+| December 2018  | MSc(Eng) in Radar, **University of Cape Town**.  |
 | December 2014  | BSc(Eng) Hons in Electrical Engineering, **University of Cape Town**. *Graduated with honours*  |
 
 ## Interests
